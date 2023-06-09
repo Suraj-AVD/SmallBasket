@@ -1,0 +1,9 @@
+Organisation Name : https://github.com/Suraj-AVD
+
+repo: HTTPS:https://github.com/Suraj-AVD/SmallBasket.git
+repo: SSH:git@github.com:Suraj-AVD/SmallBasket.git
+
+PAT
+Suraj-Maha
+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
+
